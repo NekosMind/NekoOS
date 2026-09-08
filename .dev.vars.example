@@ -1,0 +1,4 @@
+# Copy this file to .dev.vars when restoring the archive locally.
+NEKO_API_KEY=replace-with-your-private-engine-key
+NEKO_ENGINE_URL=https://your-private-neko-engine.example/v1/respond
+NEKO_MODEL=replace-with-your-engine-model
